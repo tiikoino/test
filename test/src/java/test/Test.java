@@ -10,7 +10,7 @@ package test;
  */
 public class Test {
     public static void main(String[] args) {
-        System.out.println("プログラム実装");
-        System.out.println("プログラム実装2");
+        System.out.println("レビュー修正");
+        System.out.println("レビュー修正2");
     }
 }
